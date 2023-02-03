@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: cursive;
+}
+a{
+    display: inline-block;
+    justify-content: space-around;
+}
